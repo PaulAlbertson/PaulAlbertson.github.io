@@ -1,45 +1,13 @@
 ## I code therefore I am
 
-You can use the [editor on GitHub](https://github.com/PaulAlbertson/PaulAlbertson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PaulAlbertson/PaulAlbertson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+[Links](https://jekyllrb.com/)
+![Image](src)
 
 
 ## EXPERIENCE
-### Rosetta Marketing - Creative Engineering Director 2/14 - Present
+### Rosetta Marketing
+Creative Engineering Director 2/14 - 3/17
+
 - Client facing delivery lead for native mobile and web teams on Samsung account overseeing application development and release management for Samsung Plus, and many Retail mobile applications
 - Software Architecture planning, design, and development for large user-base mobile applications
 - Project planning and estimation for small to large scale customer engagement focused native mobile and web
@@ -53,7 +21,9 @@ and employee engagement
 ### Rosetta Highlights
 
 
-### INNOCEAN Tech Lead 9/12 - 1/14
+### INNOCEAN WORLDWIDE
+Tech Lead 9/12 - 1/14
+
 - Designed, built, and deployed HTML5 applications and websites for FJ, Hyundai, and Innocean
 - Consulted with Creative Directors, Account and client stake holders to translate ideas into fully functioning native and
 web applications
