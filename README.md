@@ -1,7 +1,5 @@
-## I code therefore I am
 
-[Links](https://jekyllrb.com/)
-![Image](src)
+![Image](images/2012_Social_Headshot.jpg)
 
 
 ## EXPERIENCE
@@ -19,6 +17,17 @@ and employee engagement
 - Career management for teams of managers and their reports
 
 ### Rosetta Highlights
+[Rosetta.com](http://www.rosetta.com)<br />
+Development and Tech Leadership <br />
+code [here](https://github.com/PaulAlbertson/rosesite)
+
+[Bank of the West Blog](https://blog.bankofthewest.com)<br />
+Development and Tech Leadership <br />
+
+[GBGO Claimant app](https://play.google.com/store/apps/details?id=com.GallagherBassett.GBGOClaimant)<br />
+Tech Leadership <br />
+
+[SamsungPromotions.com](http://www.samsungpromtions.com)
 
 
 ### INNOCEAN WORLDWIDE
@@ -126,4 +135,3 @@ Active Dad and Husband, Adventure Motorcyclist, Yoga, Cycling with the kids, Mou
 - Macromedia Certified - Dynamic Content Development
 - CSULB Ð Macromedia Multimedia Developers Certification
 - PaperVision Certification Ð Rich Media Institute
-- Various Universities/Colleges - extended training in illustration, page layout, multimedia design, web design/development, and numerous web technologies
