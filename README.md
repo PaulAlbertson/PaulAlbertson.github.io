@@ -24,6 +24,9 @@ code [here](https://github.com/PaulAlbertson/rosesite)
 [Bank of the West Blog](https://blog.bankofthewest.com)<br />
 Development and Tech Leadership <br />
 
+[Folgers Jingle Website](https://jingle.folgerscoffee.com)<br />
+Tech Leadership <br />
+
 [GBGO Claimant app](https://play.google.com/store/apps/details?id=com.GallagherBassett.GBGOClaimant)<br />
 Tech Leadership <br />
 
@@ -60,9 +63,6 @@ projects
 - Manage file repo (SVN) for Campaign sites HTML and Flash associated with VW.com
 - Coordinate with Account Executives, CD’s, Producers and Designers to plan and execute interactive projects on time
 - Internal R&D to incubate new technologies that can be adopted by the agency for new projects
-
-### Deutsch Highlights
-
 
 ### TEAM ONE ADVERTISING Interactive Developer 3/07- 4/10 www.teamone-usa.com
 - Work with Creative Directors, Art Directors and Project Managers to concept and deliver websites, banners and other
