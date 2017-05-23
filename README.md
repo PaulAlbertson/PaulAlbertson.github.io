@@ -50,6 +50,9 @@ applications
 and employee engagement
 - Career management for teams of managers and their reports
 
+### Rosetta Highlights
+
+
 ### INNOCEAN Tech Lead 9/12 - 1/14
 - Designed, built, and deployed HTML5 applications and websites for FJ, Hyundai, and Innocean
 - Consulted with Creative Directors, Account and client stake holders to translate ideas into fully functioning native and
@@ -78,6 +81,9 @@ projects
 - Manage file repo (SVN) for Campaign sites HTML and Flash associated with VW.com
 - Coordinate with Account Executives, CD’s, Producers and Designers to plan and execute interactive projects on time
 - Internal R&D to incubate new technologies that can be adopted by the agency for new projects
+
+### Deutsch Highlights
+
 
 ### TEAM ONE ADVERTISING Interactive Developer 3/07- 4/10 www.teamone-usa.com
 - Work with Creative Directors, Art Directors and Project Managers to concept and deliver websites, banners and other
@@ -114,8 +120,40 @@ Related Experience and activities
 
 ### Guest Speaker - Marymount College 3/18/13
 Web Design and Development
-- Delivered 45 minute powerpoint written by myself discussing modern web design and development principles ·! Conducted interactive Q&A with students with great participation
+- Delivered 45 minute powerpoint written by myself discussing modern web design and development principles
+- Conducted interactive Q&A with students with great participation
 The Haven At College 5/12 - thehavenatcollege.com
 - Technology Consultant helping the company plan, position, and execute a forward looking digital strategy to ensure the
 company has a strong SEO, Social, and Core digital cornerstone
 - Currently developing website with HTML JQuery JS and CSS to be cross browser/device friendly
+
+## Skills and other achievements
+- MBTI = ENTJ
+- Trusted client facing resource with public speaking and presentation skills
+- Deck development and pitch team experience
+- Part of the company hackathon (Moonshine) planning team (and participant)
+- Department Planning and staffing
+- Resource allocation
+- Project Estimation
+- Architecture, Tech Diagrams, flow charts
+- Scrum Master training completed
+- Hands on Programming as needed
+- Prototyping
+- Technical Documentation
+- Logo design
+- Auto cad
+- 3D Modeling experience
+- VR Web/Immersive web development
+- Clean Room/Secure initiatives
+
+### Interests and hobbies
+Active Dad and Husband, Adventure Motorcyclist, Yoga, Cycling with the kids, Mountainbiking, Snowboarding, Auto tinkering and restoration, playing drums, making and recording music, learning new development techniques and languages, Arduino tinkering, Digital Photography
+
+### Education and certifications
+- University of Texas, Arlington
+- Ensighten Certification
+- Executive Client Engagement Training course completed
+- Macromedia Certified - Dynamic Content Development
+- CSULB Ð Macromedia Multimedia Developers Certification
+- PaperVision Certification Ð Rich Media Institute
+- Various Universities/Colleges - extended training in illustration, page layout, multimedia design, web design/development, and numerous web technologies
